@@ -1,0 +1,5 @@
+git credential-osxkeychain erase <enter>
+host=github.com <enter>
+protocol=https <enter>
+<enter>
+git config —-global user.name “Hello from Lv-231.C++”
